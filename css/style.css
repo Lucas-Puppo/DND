@@ -69,3 +69,14 @@ a.download-link:hover {
 .image-gallery img:hover {
     transform: scale(1.1);
 }
+
+.calendar-container {
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+iframe {
+    border-radius: 12px;
+    box-shadow: 0 0 20px rgba(255, 215, 0, 0.4);
+}
