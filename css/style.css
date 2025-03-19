@@ -80,3 +80,41 @@ iframe {
     border-radius: 12px;
     box-shadow: 0 0 20px rgba(255, 215, 0, 0.4);
 }
+
+.fantasy-nav {
+    background-color: #3e2753;
+    border-bottom: 2px solid #e0c97f;
+    padding: 10px 0;
+    box-shadow: 0 0 10px rgba(255, 215, 0, 0.3);
+}
+
+.fantasy-nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.fantasy-nav li {
+    display: inline;
+}
+
+.fantasy-nav a {
+    text-decoration: none;
+    color: #f0e6d2;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 8px 16px;
+    border: 2px solid transparent;
+    border-radius: 8px;
+    transition: all 0.3s ease;
+}
+
+.fantasy-nav a:hover {
+    background-color: #5e3b99;
+    border-color: #a67c00;
+    box-shadow: 0 0 8px rgba(255, 215, 0, 0.5);
+    transform: scale(1.05);
+}
