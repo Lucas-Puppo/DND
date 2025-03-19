@@ -1,0 +1,2 @@
+JAVA_VERSION="17.0.10"
+MODULES="java.base java.compiler java.datatransfer java.xml java.prefs java.desktop java.logging java.management java.security.sasl java.naming java.rmi java.scripting java.transaction.xa java.sql TokenTool.merged.module com.google.gson com.twelvemonkeys.common.io com.twelvemonkeys.imageio.psd jai.imageio.jpeg2000 javafx.base jdk.unsupported javafx.graphics javafx.controls javafx.fxml jdk.unsupported.desktop javafx.swing org.apache.commons.io org.apache.logging.log4j org.apache.pdfbox sentry net.rptools.tokentool"

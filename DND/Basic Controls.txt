@@ -1,0 +1,12 @@
+Basic Controls
+
+
+Left Click - Select/move(drag)
+
+Right Click(Drag) - Pan/move camera
+
+Scroll Wheel - Change zoom
+
+Thats All :3
+
+
